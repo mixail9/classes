@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">classes</string>
+    <string name="spinnerHint">Select</string>
+
+    <string-array name="shepesVariants">
+        <item>circle</item>
+        <item>triangle</item>
+        <item>square</item>
+    </string-array>
+
+    <string name="btn_calc_s">calc S</string>
+    <string name="btn_calc_p">calc P</string>
+</resources>
